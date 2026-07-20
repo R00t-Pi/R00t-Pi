@@ -43,9 +43,9 @@ I work in blue team security — alert triage, SIEM investigations, log analysis
 ---
 
 ## GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=RootPii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=RootPii&theme=dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RootPii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=R00t-Pi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=R00t-Pi&theme=dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=R00t-Pi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=RootPii&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=R00t-Pi&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
